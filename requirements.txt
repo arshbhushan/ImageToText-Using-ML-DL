@@ -1,0 +1,5 @@
+deep_translator==1.11.4
+Flask==2.2.5
+Pillow==9.5.0
+pytesseract==0.3.10
+tesseract-ocr==0.0.1
